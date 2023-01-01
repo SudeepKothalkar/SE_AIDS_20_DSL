@@ -1,0 +1,68 @@
+ENTER TOTAL NUMBER OF ARRAY ELEMENTS(N>6)7
+ENTER THE FIRST YEAR PERCENTAGE: 90.56
+ENTER THE NAME OF THE STUDENT: A
+ENTER THE FIRST YEAR PERCENTAGE: 90.84
+ENTER THE NAME OF THE STUDENT: B
+ENTER THE FIRST YEAR PERCENTAGE: 89.78
+ENTER THE NAME OF THE STUDENT: C
+ENTER THE FIRST YEAR PERCENTAGE: 92.78
+ENTER THE NAME OF THE STUDENT: D
+ENTER THE FIRST YEAR PERCENTAGE: 90.12
+ENTER THE NAME OF THE STUDENT: E
+ENTER THE FIRST YEAR PERCENTAGE: 89.12
+ENTER THE NAME OF THE STUDENT: F
+ENTER THE FIRST YEAR PERCENTAGE: 96.56
+ENTER THE NAME OF THE STUDENT: G
+----STUDENT RESULT----
+
+
+        STUDENT NAME     PERCENTAGE
+
+
+         A               90.56
+
+
+         B               90.84
+
+
+         C               89.78
+
+
+         D               92.78
+
+
+         E               90.12
+
+
+         F               89.12
+
+
+         G               96.56
+FIRST FIVE TOPPERS AFTER APPLYING SELELCTION SORT
+
+
+        STUDENT NAME     PERCENTAGE
+
+         G               96.56
+
+         D               92.78
+
+         B               90.84
+
+         A               90.56
+
+         E               90.12
+FIRST FIVE TOPPERS AFTER APPLYING BUBBLE SORT
+
+
+        STUDENT NAME     PERCENTAGE
+
+         G               96.56
+
+         D               92.78
+
+         B               90.84
+
+         A               90.56
+
+         E               90.12

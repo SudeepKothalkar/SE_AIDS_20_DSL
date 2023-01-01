@@ -1,0 +1,67 @@
+*******MENU*******
+<1>ADD JOB
+<2>DELETE JOB
+<3>DISPLAY JOB DATA
+<4>EXIT
+
+ENTER YOUR CHOICE:=1
+
+
+ENTER THE JOB DATA:=10
+
+Do u want to add more elements[y/n]?:=y
+
+
+ENTER THE JOB DATA:=20
+
+Do u want to add more elements[y/n]?:=y
+
+
+ENTER THE JOB DATA:=30
+
+Do u want to add more elements[y/n]?:=y
+
+
+ENTER THE JOB DATA:=40
+
+Do u want to add more elements[y/n]?:=n
+
+
+Do uwant to cntinue MENU[y / n]? y
+
+*******MENU*******
+<1>ADD JOB
+<2>DELETE JOB
+<3>DISPLAY JOB DATA
+<4>EXIT
+
+ENTER YOUR CHOICE:=2
+
+
+The element to be deleted is :10
+
+Do u want to delete more element[y / n]?: = n
+
+
+Do uwant to cntinue MENU[y / n]? y
+
+*******MENU*******
+<1>ADD JOB
+<2>DELETE JOB
+<3>DISPLAY JOB DATA
+<4>EXIT
+
+ENTER YOUR CHOICE:=3
+
+The elements in queue are:=
+        20      30      40
+
+Do uwant to cntinue MENU[y / n]? y
+
+*******MENU*******
+<1>ADD JOB
+<2>DELETE JOB
+<3>DISPLAY JOB DATA
+<4>EXIT
+
+ENTER YOUR CHOICE:=4

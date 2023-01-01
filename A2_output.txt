@@ -1,0 +1,16 @@
+Enter total no of students : 5
+Enter the marks of the students : 10
+Enter the marks of the students : 15
+Enter the marks of the students : 10
+Enter the marks of the students : 10
+Enter the marks of the students : 20
+[10, 15, 10, 10, 20]
+TOTAL SUM=  65
+TOTAL AVERAGE=  13.0
+HIGHEST MARKS : 20
+LOWEST MARKS:  10
+Total no of absent students :  0
+Marks  |  Frequency
+10     |   3
+15     |   1
+20     |   1

@@ -1,0 +1,105 @@
+1.Add president and secretary.
+2.Add new club membres
+3.delete president node
+4.delete secretory node
+5.delete club memebrs
+6.Compute total number of members of club
+
+
+         ENTER YOUR CHOICE: 1 
+
+
+ENTER THE PRESIDENT INFORMATION:
+
+Enter node PRN  50
+
+
+Enter NAME OF STUDENT   A
+
+
+ENTER THE SECRETORY INFORMATION:
+
+Enter node PRN  80
+
+
+Enter NAME OF STUDENT   B
+
+                        *******PINACCAL CLUB INFORMATION******
+
+
+ STUDENT NAME    PRN NUMBER
+        A       50
+        B       80
+
+         ENTER YOUR CHOICE: 2
+
+
+ENTER TOTAL NUMBER OF REQUEST   2
+
+
+enter PRN NUMBER        90
+
+
+ENTER STUDENT NAME      C
+
+
+enter PRN NUMBER        100
+
+
+ENTER STUDENT NAME      D
+
+                        *******PINACCAL CLUB INFORMATION******
+
+
+ STUDENT NAME    PRN NUMBER
+        A       50
+        C       90
+        D       100
+        B       80
+
+         ENTER YOUR CHOICE: 3
+
+
+ PRESIDENT NODE DELETED
+
+                        *******PINACCAL CLUB INFORMATION******
+
+
+ STUDENT NAME    PRN NUMBER
+        C       90
+        D       100
+        B       80
+
+         ENTER YOUR CHOICE: 5
+
+
+ ENTER PRN NUMBER FOR DELETE    100
+
+
+ node PRN found
+                        *******PINACCAL CLUB INFORMATION******
+
+
+ STUDENT NAME    PRN NUMBER
+        C       90
+        B       80
+
+
+
+         ENTER YOUR CHOICE: 4
+
+
+ AFTER DELETE SECRETORY NODE
+
+                        *******PINACCAL CLUB INFORMATION******
+
+
+ STUDENT NAME    PRN NUMBER
+        C       90
+
+         ENTER YOUR CHOICE: 6
+
+
+        TOTAL NUMBER OF CLUB MEMBERS: 1
+
+         ENTER YOUR CHOICE: 7

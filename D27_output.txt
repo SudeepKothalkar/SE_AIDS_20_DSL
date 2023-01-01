@@ -1,0 +1,5 @@
+
+         ENTER INFIX EXPRESSION: 3*4/2+5
+Postfix is : 34*2/5+
+
+        POSTFIX EVALUATION RESULT : 11

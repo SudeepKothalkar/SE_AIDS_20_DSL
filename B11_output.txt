@@ -1,0 +1,60 @@
+
+--------** MENU **--------
+         1. Linear Search
+         2. Sentinel Search
+         3. Binary Search
+         4. Fibonacci Search
+         5. STOP/EXIT
+
+         Enter your Choice(1/2/3/4): 1
+Enter the roll no 34
+Student have Attended Training
+At index 5
+
+--------** MENU **--------    
+         1. Linear Search     
+         2. Sentinel Search   
+         3. Binary Search     
+         4. Fibonacci Search  
+         5. STOP/EXIT
+
+         Enter your Choice(1/2/3/4): 2
+Enter the element to be searched 45
+key found at index 9
+
+--------** MENU **--------
+         1. Linear Search
+         2. Sentinel Search
+         3. Binary Search
+         4. Fibonacci Search
+         5. STOP/EXIT
+
+         Enter your Choice(1/2/3/4): 3
+Search element:15
+Search element found at index 4
+
+--------** MENU **--------
+         1. Linear Search
+         2. Sentinel Search
+         3. Binary Search
+         4. Fibonacci Search
+         5. STOP/EXIT
+
+         Enter your Choice(1/2/3/4): 4 
+
+ Sorted List:  [0, 2, 10, 12, 15, 18, 34, 45, 53, 66]
+
+ Fibonacci Series:  [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+
+         Enter Roll No to search: 15
+         Student Have Attended Training Program.
+At index = 4
+
+--------** MENU **--------
+         1. Linear Search
+         2. Sentinel Search
+         3. Binary Search
+         4. Fibonacci Search
+         5. STOP/EXIT
+
+         Enter your Choice(1/2/3/4): 5

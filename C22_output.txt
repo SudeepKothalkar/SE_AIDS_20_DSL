@@ -1,0 +1,76 @@
+ No of sets  : 3
+
+
+         Enter 10 Students of SE Comp : 
+         Enter Student Initial: A       
+
+         Enter Student Initial: B
+
+         Enter Student Initial: C
+
+         Enter Student Initial: D
+
+         Enter Student Initial: E
+
+         Enter Student Initial: F
+
+         Enter Student Initial: G
+
+         Enter Student Initial: H
+
+         Enter Student Initial: 
+I
+
+         Enter Student Initial: J
+
+  A  B  C  D  E  F  G  H  I  J
+
+         Enter 5 Students who like Vanilla Icecream:
+         Enter Student Initial: A
+
+         Enter Student Initial: D
+
+         Enter Student Initial: E
+
+         Enter Student Initial: G
+
+  A  D  E  G  I
+
+         Enter 5 Students who like Butterscotch Icecream:
+         Enter Student Initial: J
+
+         Enter Student Initial: B
+
+         Enter Student Initial: C
+
+         Enter Student Initial: D
+
+         Enter Student Initial: A
+
+  J  B  C  D  A
+
+ Input Sets:------------------------
+
+ Set 'U':   A  B  C  D  E  F  G  H  I  J
+
+ Set 'A':   A  D  E  G  I
+
+ Set 'B':   J  B  C  D  A
+
+ Output Sets:------------------------1.Union
+2.Intersection
+3.Neither
+Enter your choice
+1
+Set of students who like vanilla or butterscotch or both
+
+
+         Set A U B:  A D E G I J B C D A
+Set of students who like vanilla and butterscotch
+
+
+         Set A ^ B:  A D
+Set of students who neither like vanilla or butterscotch nor both 
+
+
+         Set U - (A U B):  F H

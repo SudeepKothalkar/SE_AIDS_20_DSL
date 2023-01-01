@@ -1,0 +1,133 @@
+ 			1: Accept Matrix
+                        2: Display Matrix
+                        3: Addition of Matrices      
+                        4: Substraction of Matrices  
+                        5: Multiplication of Matrices
+                        6: Transpose Matrix
+                        7: Exit
+Enter your choice : 1
+Input First Matrix
+
+Enter the order of the Matrix (row,col) : 
+        row = 2
+        col = 2
+Enter the elements of the Matrix : 
+
+10
+15
+20
+25
+
+Matrix accepted successfully
+
+Input Second Matrix
+
+Enter the order of the Matrix (row,col) :
+        row = 2
+        col = 2
+Enter the elements of the Matrix : 
+
+12
+24
+36
+48
+
+Matrix accepted successfully
+
+                        1: Accept Matrix
+                        2: Display Matrix
+                        3: Addition of Matrices
+                        4: Substraction of Matrices
+                        5: Multiplication of Matrices
+                        6: Transpose Matrix
+                        7: Exit
+Enter your choice : 2
+        First  Matrix :  (2, 2)
+                 10 15
+                 20 25
+        Second  Matrix :  (2, 2)
+                 12 24
+                 36 48
+                        1: Accept Matrix
+                        2: Display Matrix
+                        3: Addition of Matrices
+                        4: Substraction of Matrices
+                        5: Multiplication of Matrices
+                        6: Transpose Matrix
+                        7: Exit
+Enter your choice : 3
+        First  Matrix :  (2, 2)
+                 10 15
+                 20 25
+        Second  Matrix :  (2, 2)
+                 12 24
+                 36 48
+        Addition
+Matrix :  (2, 2)
+                 22 39
+                 56 73
+                        1: Accept Matrix
+                        2: Display Matrix
+                        3: Addition of Matrices
+                        4: Substraction of Matrices
+                        5: Multiplication of Matrices
+                        6: Transpose Matrix
+                        7: Exit
+Enter your choice : 4
+        First  Matrix :  (2, 2)
+                 10 15
+                 20 25
+        Second  Matrix :  (2, 2)
+                 12 24
+                 36 48
+        Substraction
+Matrix :  (2, 2)
+                 -2 -9
+                 -16 -23
+                        1: Accept Matrix
+                        2: Display Matrix
+                        3: Addition of Matrices
+                        4: Substraction of Matrices
+                        5: Multiplication of Matrices
+                        6: Transpose Matrix
+                        7: Exit
+Enter your choice : 5
+        First  Matrix :  (2, 2)
+                 10 15
+                 20 25
+        Second  Matrix :  (2, 2)
+                 12 24
+                 36 48
+        Multiplication
+Matrix :  (2, 2)
+                 660 960
+                 1140 1680
+                        1: Accept Matrix
+                        2: Display Matrix
+                        3: Addition of Matrices
+                        4: Substraction of Matrices
+                        5: Multiplication of Matrices
+                        6: Transpose Matrix
+                        7: Exit
+Enter your choice : 6
+        First  Matrix :  (2, 2)
+                 10 15
+                 20 25
+        Transpose  Matrix :  (2, 2)
+                 10 20
+                 15 25
+        Second  Matrix :  (2, 2)
+                 12 24
+                 36 48
+        Transpose  Matrix :  (2, 2)
+                 12 36
+                 24 48
+                        1: Accept Matrix
+                        2: Display Matrix
+                        3: Addition of Matrices
+                        4: Substraction of Matrices
+                        5: Multiplication of Matrices
+                        6: Transpose Matrix
+                        7: Exit
+Enter your choice : 7
+End of Program

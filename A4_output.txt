@@ -1,0 +1,33 @@
+BANK TRANSACTION LOG 
+1.DEPOSIT
+2.WITHDRAW
+3.DISPLAY BALANCE
+4.BANK TRANSACTION LOG BOOK
+5.EXIT
+ENTER YOUR CHOICE:
+1
+Enter amount to be deposited: 5000
+
+ Amount Deposited: 5000.0
+ENTER YOUR CHOICE:       
+2
+Enter amount to be withdrawn: 2500
+
+ You Withdrew: 2500.0
+ENTER YOUR CHOICE:   
+3
+
+ Current Available Balance: 2500.0
+ENTER YOUR CHOICE:
+4
+
+-------------BANK TRANSACTION LOG-------------
+Deposit          5000.0
+
+
+Withdraw         2500.0
+
+
+ENTER YOUR CHOICE:
+5
+Enter valid choice
